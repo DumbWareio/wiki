@@ -1,0 +1,7 @@
+- [Home](/)
+- [DumbDrop](dumbdrop.md)
+- [DumbPad](dumbpad.md)
+- [DumbBudget](dumbbudget.md)
+- [DumbWhoIs](dumbwhois.md)
+- [DumbKan](dumbkan.md)
+- [DumbDo](dumbdo.md) 

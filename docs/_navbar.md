@@ -1,0 +1,3 @@
+- [Home](/)
+- [Site](https://dumbware.io)
+- [Donate](https://buymeacoffee.com/dumbware)
